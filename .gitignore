@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+backend/data/
+node_modules/
+
+# Generated frontend files
+ui/dist/
+ui/.playwright-cli/
